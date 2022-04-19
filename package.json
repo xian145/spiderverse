@@ -4,7 +4,7 @@
   "description": "repo para la practica 2 de la semana 3 de la mision backEnd con node.js de launchx",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
   },
   "repository": {
     "type": "git",
