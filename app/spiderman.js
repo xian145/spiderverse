@@ -7,3 +7,5 @@ class spiderman {
         this.studio = studio
     }
 }
+
+module.exports = spiderman
