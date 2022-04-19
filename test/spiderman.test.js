@@ -12,6 +12,10 @@ describe("Unit test for spiderman class", () => {
         expect(andrewG.numberOfMovies).toBe(3),
         expect(andrewG.studio).toBe('Sony')
     });
+    test('2. Use method getGeneralInfo()', () => {
+        const tomHolland = new spiderman("Tom Holland", 25, "Peter Parker", 5, "Marvel")
+        expect(tomHolland.getGeneralInfo()).toBe("Hey, I'm Tom Holland from Marvel Studio")
+    })
 })
 
 //se a comprobado que la prueba funcione de manera correcta
