@@ -1,0 +1,19 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "repo para la practica 2 de la semana 3 de la mision backEnd con node.js de launchx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xian145/spiderverse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xian145/spiderverse/issues"
+  },
+  "homepage": "https://github.com/xian145/spiderverse#readme"
+}
